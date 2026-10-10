@@ -2,52 +2,24 @@
 
 🎓 Software Engineering Student | Aspiring Data Analyst
 
-I'm developing my technical skills through structured courses, hands-on exercises, and personal projects. My interests include data analytics, software development, and web design.
+I'm learning through structured courses, hands-on exercises, and personal projects, with interests in data analytics, software development, and web design.
 
 ### 📚 Currently Learning
 
-**📊 Data Analytics**
-- Python
-- SQL
-- Microsoft Excel
-- Tableau
+- **Data Analytics:** Python, SQL, Excel, Tableau
+- **Web Development:** HTML, CSS, JavaScript, UI Design, Node.js, Express.js, React.js, TypeScript, Next.js, Databases
 
-**🌐 Web Development**
-
-- HTML & CSS 
-- JavaScript
-- UI Design
-- Node.js
-- Databases
-- Express.js
-- React.js
-- TypeScript
-- Next.js
-
-
-### 🛠️ Tools & Technologies
-- VS Code
-- Git & GitHub
-- Microsoft Excel
-- Python and SQL
-
-### 🔨 What I'm Working On
-- Practicing concepts through course exercises.
-- Building small projects to apply what I learn.
-- Documenting my progress and improving my technical skills.
+### 🛠️ Tools
+Git · GitHub · VS Code · Microsoft Excel
 
 ### 🎯 My Goals
-- Turn learning into practical projects.
-- Build a strong, evidence-based portfolio.
-- Improve my problem-solving skills.
+- Build practical projects and a strong portfolio.
+- Document my learning journey.
 - Connect with developers and data professionals.
 
-### 📂 Explore My Work
-Check out my [GitHub repositories](https://github.com/AbdulAhadSerfraz) to follow my learning journey and explore my projects.
-
-### 🤝 Connect With Me
-- GitHub: [AbdulAhadSerfraz](https://github.com/AbdulAhadSerfraz)
+### 🔗 Explore My Work
+[GitHub Repositories](https://github.com/AbdulAhadSerfraz)
 
 ---
 
-*Learn • Build • Document • Share • Improve*
+*Learn • Build • Document • Improve*
