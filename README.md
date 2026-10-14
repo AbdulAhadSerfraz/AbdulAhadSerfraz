@@ -36,8 +36,6 @@ More projects on my [GitHub repositories](https://github.com/AbdulAhadSerfraz?ta
 
 ### 🤝 Connect With Me
 - **GitHub:** [AbdulAhadSerfraz](https://github.com/AbdulAhadSerfraz)
-- **Email:** [abdulahadserfraz@gmail.com](mailto:abdulahadserfraz@gmail.com)
 
 ---
 
-*Learn • Build • Document • Improve*
