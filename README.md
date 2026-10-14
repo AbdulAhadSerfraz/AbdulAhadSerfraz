@@ -35,7 +35,9 @@ I'm developing practical skills through structured courses, hands-on exercises, 
 More projects on my [GitHub repositories](https://github.com/AbdulAhadSerfraz?tab=repositories).
 
 ### 🤝 Connect With Me
-- **GitHub:** [AbdulAhadSerfraz](https://github.com/AbdulAhadSerfraz)
+- **GitHub:** [AbdulAhadSerfraz](https://github.com/AbdulAhadSerfraz) 
+- **Email:** [abdulahadserfraz@gmail.com](mailto:abdulahadserfraz@gmail.com)
+
 
 ---
 
